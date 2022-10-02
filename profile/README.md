@@ -1,4 +1,6 @@
-## Hi there 👋
+## Far More
+
+Far More is a file manager inspired by [Far Manager](https://github.com/FarGroup/FarManager).
 
 <!--
 
