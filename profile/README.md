@@ -1,6 +1,6 @@
 ## Faraday
 
-Far More is a file manager inspired by [Far Manager](https://github.com/FarGroup/FarManager) and [Visual Studio Code](https://github.com/microsoft/vscode).
+Faraday is a file manager inspired by [Far Manager](https://github.com/FarGroup/FarManager) and [Visual Studio Code](https://github.com/microsoft/vscode).
 
 <!--
 
